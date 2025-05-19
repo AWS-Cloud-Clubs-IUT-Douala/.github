@@ -30,21 +30,12 @@ Le AWS Cloud Club de l’IUT Douala est un club étudiant reconnu par AWS, axé 
 
 ## 💼 Projets en cours
 
-| Projet                | Description                                              | Statut       |
-|-----------------------|----------------------------------------------------------|--------------|
-| GreenTrack 🌱         | Suivi d'empreinte carbone sur AWS                       | En développement |
-| Cloud Resume Challenge 📄| Défi personnel pour héberger son CV sur AWS            | En cours      |
-| IUTCloudLab 🔬         | Environnement d’expérimentation pour les étudiants      | À venir       |
 
 ---
 
 ## 🗓️ Événements récents
 
-| Date         | Événement                            | Format     |
-|--------------|--------------------------------------|------------|
-| Avril 2024   | AWS Academy Workshop (intro)         | En présentiel |
-| Mai 2024     | Serverless avec Lambda & API Gateway | En ligne   |
-| Juin 2024    | Cloud Careers Meetup                 | En présentiel |
+
 
 ---
 
