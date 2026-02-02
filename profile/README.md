@@ -43,7 +43,7 @@ Le AWS Cloud Club de l’IUT Douala est un club étudiant reconnu par AWS, axé 
 
 | Nom                 | Rôle                          |
 |---------------------|-------------------------------|
-| [Ton Nom]           | Lead du club AWS              |
+| KALDJOB CECILE      | Lead du club AWS              |
 | [Nom Membre]        | Responsable Technique         |
 | [Nom Membre]        | Responsable Communication     |
 | [Nom Membre]        | Trésorier / Logistique        |
